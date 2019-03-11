@@ -3155,3 +3155,28 @@ input, select, textarea {
  img#about:hover{
 	 filter: opacity(0.8);
  }
+ iframe#workhorse1{
+	 width: 70%;
+	 height: 400px;
+	 display: flex;
+	 margin: 0 auto;
+ }
+ iframe#workhorse01{
+	 width: 70%;
+	 height: 400px;
+	 display: flex;
+	 margin: 0 auto;
+ }
+ iframe#azonrazor1{
+	 width: 70%;
+	 height: 400px;
+	 display: flex;
+	 margin: 0 auto;
+ }
+ a#down {
+	 background: #0099ac;
+	 height: 100px;
+	 border-radius: 5px;
+	 color: #fff;
+	 padding: 20px;
+ }
