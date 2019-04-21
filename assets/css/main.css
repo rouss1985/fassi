@@ -3311,6 +3311,12 @@ section, summary, time, mark, audio, video {
 			display: flex;
 			margin: 0 auto;
 		}
+		iframe#laser{
+			width: 70%;
+			height: 400px;
+			display: flex;
+			margin: 0 auto;
+		}
 		a#down {
 			background: #0099ac;
 			height: 100px;
@@ -3323,4 +3329,31 @@ section, summary, time, mark, audio, video {
 			margin: 0 auto;
 			width: 40%;
 			height: 35%;
+		}
+		@media screen and (max-width: 736px){
+			#navPanel{
+			    -moz-backface-visibility: hidden;
+			    -webkit-backface-visibility: hidden;
+			    -ms-backface-visibility: hidden;
+			    backface-visibility: hidden;
+			    -moz-transform: translateY(-100vh);
+			    -webkit-transform: translateY(-100vh);
+			    -ms-transform: translateY(-100vh);
+			    transform: translateY(-100vh);
+			    -moz-transition: -moz-transform 0.5s ease;
+			    -webkit-transition: -webkit-transform 0.5s ease;
+			    -ms-transition: -ms-transform 0.5s ease;
+			    transition: transform 0.5s ease;
+			    display: block;
+			    height: auto;
+			    left: 0;
+			    overflow-y: auto;
+			    position: fixed;
+			    top: 0;
+			    width: 100%;
+			    z-index: 10002;
+			    background: #1f1920;
+			    box-shadow: inset 0px -2px 5px 0px rgba(0, 0, 0, 0.25);
+			    font-size: 1em;
+			}
 		}
