@@ -3330,6 +3330,12 @@ section, summary, time, mark, audio, video {
 			width: 40%;
 			height: 35%;
 		}
+		img.imgNote{
+			display: flex;
+			width: 70%;
+			margin:0 auto;
+			margin-bottom: 50px;
+		}
 		@media screen and (max-width: 736px){
 			#navPanel{
 			    -moz-backface-visibility: hidden;
@@ -3356,4 +3362,190 @@ section, summary, time, mark, audio, video {
 			    box-shadow: inset 0px -2px 5px 0px rgba(0, 0, 0, 0.25);
 			    font-size: 1em;
 			}
+		}
+		@media (min-width: 320px) and (max-width:735px) {
+			img.logoFass{
+				width: 90%;
+				margin: 0 auto;
+			}
+			img.product8{
+				width: 250px!important;
+				height: 220px!important;
+			}
+			img.product1{
+				width: 250px!important;
+				height: 220px!important;
+			}
+			img.product6{
+				width: 220px!important;
+				height: 200px!important;
+			}
+			img.product2{
+				width: 250px!important;
+				height: 220px!important;
+			}
+			img.product3{
+				width: 250px!important;
+				height: 220px!important;
+			}
+			img.product4{
+				width: 250px!important;
+				height: 220px!important;
+			}
+			img.product5{
+				width: 200px!important;
+				height: 220px!important;
+			}
+			img.product7{
+				width: 230px!important;
+				height: 200px!important;
+			}
+			img.product9{
+				width: 200px!important;
+				height: 200px!important;
+			}
+			img.mobImg{
+				width: 95%!important;
+				margin: 0 auto!important;
+			}
+			iframe#workhorse1{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#chiossi{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#dido{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#flash{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#RedFlash{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#workhorse01{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#cutlass{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#sabre{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#v1000{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#vastex2000HD{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#vizio{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#mutoh{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#WX1638{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#monti120{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#monti180{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#monti76{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#azon1{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#azonrazor1{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#mason{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#mini{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#mirage{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#matrix{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#laser{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			iframe#speedyT{
+				width: 95%;
+				height: 70%;
+				margin:0 auto;
+			}
+			img.imgCenter{
+				width: 90%;
+				height: 80%;
+				margin: 0 auto;
+			}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 		}
