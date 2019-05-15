@@ -2196,7 +2196,7 @@ section, summary, time, mark, audio, video {
 
 		#header {
 			position: relative;
-			background-image: url("../../images/header3.jpg");
+			background-image: url("../../images/header2.jpg");
 			background-size: cover;
 			background-position: center center;
 			background-attachment: fixed;
@@ -3152,8 +3152,11 @@ section, summary, time, mark, audio, video {
 		hr#fooHr{
 			color: #fff!important;
 		}
-		img#about:hover{
-			filter: opacity(0.8);
+		img#about{
+			display: flex;
+			width: 90%;
+			margin:0 auto;
+			margin-bottom: 30px;
 		}
 		iframe#workhorse1{
 			width: 70%;
