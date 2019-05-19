@@ -3536,7 +3536,11 @@ section, summary, time, mark, audio, video {
 				height: 80%;
 				margin: 0 auto;
 			}
-
+			img.ofer{
+				width: 250px!important;
+				height: 200px!important;
+				margin: 0 auto;
+			}
 
 
 
@@ -3552,3 +3556,8 @@ section, summary, time, mark, audio, video {
 
 
 		}
+img.ofer{
+	width: 700px;
+	height: 400px;
+	margin: 0 auto;
+}
