@@ -3338,6 +3338,18 @@ section, summary, time, mark, audio, video {
 			display: flex;
 			margin: 0 auto;
 		}
+		iframe#xtreme{
+			width: 70%;
+			height: 400px;
+			display: flex;
+			margin: 0 auto;
+		}
+		iframe#synchro{
+			width: 70%;
+			height: 400px;
+			display: flex;
+			margin: 0 auto;
+		}
 		a#down {
 			background: #0099ac;
 			height: 100px;
@@ -3589,7 +3601,16 @@ section, summary, time, mark, audio, video {
 				height: 100%;
 				margin:0 auto;
 			}
-
+			iframe#xtreme{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#synchro{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
 
 
 
