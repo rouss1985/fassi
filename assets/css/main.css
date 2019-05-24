@@ -3320,6 +3320,24 @@ section, summary, time, mark, audio, video {
 			display: flex;
 			margin: 0 auto;
 		}
+		iframe#iQ_Oval{
+			width: 70%;
+			height: 400px;
+			display: flex;
+			margin: 0 auto;
+		}
+		iframe#SAEvo{
+			width: 70%;
+			height: 400px;
+			display: flex;
+			margin: 0 auto;
+		}
+		iframe#XtypePlus{
+			width: 70%;
+			height: 400px;
+			display: flex;
+			margin: 0 auto;
+		}
 		a#down {
 			background: #0099ac;
 			height: 100px;
@@ -3411,126 +3429,6 @@ section, summary, time, mark, audio, video {
 				width: 95%!important;
 				margin: 0 auto!important;
 			}
-			iframe#workhorse1{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#chiossi{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#dido{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#flash{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#RedFlash{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#workhorse01{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#cutlass{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#sabre{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#v1000{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#vastex2000HD{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#vizio{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#mutoh{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#WX1638{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#monti120{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#monti180{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#monti76{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#azon1{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#azonrazor1{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#mason{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#mini{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#mirage{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#matrix{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#laser{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
-			iframe#speedyT{
-				width: 95%;
-				height: 70%;
-				margin:0 auto;
-			}
 			img.imgCenter{
 				width: 90%;
 				height: 80%;
@@ -3541,10 +3439,156 @@ section, summary, time, mark, audio, video {
 				height: 200px!important;
 				margin: 0 auto;
 			}
-
-
-
-
+			iframe#workhorse1{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#workhorse01{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#azonrazor1{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#mason{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#sabre{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#cutlass{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#mini{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#rapidTag{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#texPro{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#mirage{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#modico{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#chiossi{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#dido{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#vizio{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#mutoh{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#WX1638{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#monti120{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#monti180{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#monti76{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#vastex2000HD{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#v1000{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#flash{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#RedFlash{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#azon1{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#matrix{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#speedyT{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#laser{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#iQ_Oval{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#SAEvo{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
+			iframe#XtypePlus{
+				width: 95%;
+				height: 100%;
+				margin:0 auto;
+			}
 
 
 
